@@ -18,7 +18,7 @@ export default function Home() {
         <div className="container flex h-16 items-center">
           <Link href="/" className="flex items-center gap-2 font-semibold">
             <User className="h-5 w-5" />
-            <span>Alex Morgan</span>
+            <span>Koi Chavez</span>
           </Link>
           <nav className="ml-auto flex gap-4 sm:gap-6">
             <Link
@@ -49,7 +49,7 @@ export default function Home() {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                    Alex Morgan
+                    Koi Chavez
                   </h1>
                   <p className="text-xl text-muted-foreground">
                     Front-End Developer turned Customer Success Manager
@@ -232,13 +232,13 @@ export default function Home() {
                     Get in Touch
                   </h2>
                   <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                    I'm always open to discussing new opportunities and how my
-                    unique skill set can benefit your team.
+                    I&apos;m always open to discussing new opportunities and how
+                    my unique skill set can benefit your team.
                   </p>
                 </div>
                 <div className="flex items-center gap-4">
                   <Mail className="h-6 w-6" />
-                  <span>alex.morgan@example.com</span>
+                  <span>koi.chavez@gmail.com</span>
                 </div>
               </div>
               <div className="space-y-4">
@@ -295,7 +295,7 @@ export default function Home() {
       <footer className="w-full border-t py-6 bg-gradient-to-r from-primary/10 to-secondary/10">
         <div className="container flex flex-col items-center justify-center gap-4 md:flex-row md:gap-8">
           <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
-            © 2024 Alex Morgan. All rights reserved.
+            © 2025 Koi Chavez. All rights reserved.
           </p>
           <div className="flex gap-4">
             <Link
