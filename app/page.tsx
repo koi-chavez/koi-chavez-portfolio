@@ -65,7 +65,7 @@ export default function Home() {
                 </div>
               </div>
               <img
-                src="/portfolio.jpeg?height=550&width=450"
+                src="/portfolio.jpg?height=550&width=450"
                 alt="Profile"
                 width={550}
                 height={450}
